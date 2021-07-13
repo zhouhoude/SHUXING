@@ -19,5 +19,5 @@ android {
 
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
-    api 'com.github.zhouhoude:SuperSDK:1.0.0-beta03'
+    api 'com.github.zhouhoude:SuperSDK:1.0.0-beta02'
 }
